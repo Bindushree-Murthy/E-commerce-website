@@ -1,0 +1,63 @@
+# E-commerce Website
+
+This is a fully functional E-commerce website built with **React** and **Vite**, designed to showcase a variety of products like clothing, accessories, makeup, and more. It features a responsive and interactive layout that works seamlessly across devices.
+
+## Features
+
+- **Product Listing**: Displays different categories like Men, Women, Accessories, Makeup, etc.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Lightweight**: Fast performance with minimal page load time, thanks to Vite's optimized bundling.
+- **GitHub Pages Deployment**: Deployed on GitHub Pages for easy sharing and hosting.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Installation](#installation)
+- [Build for Production](#build-for-production)
+- [Deployment](#deployment)
+- [Technologies Used](#technologies-used)
+- [License](#license)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+
+## Demo
+
+You can view the live demo of this project at:  
+[Live Demo - E-commerce Website](https://bindushree-murthy.github.io/E-commerce-website/)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+| Step | Command |
+|------|---------|
+| **Clone the repository** | `git clone https://github.com/bindushree-murthy/E-commerce-website.git` |
+| **Navigate to the project folder** | `cd E-commerce-website` |
+| **Install dependencies** | `npm install` |
+| **Start the development server** | `npm run dev` |
+
+After running these commands, open your browser and navigate to `http://localhost:3000` to see the project in action.
+
+## Build for Production
+
+To build the project for production:
+
+| Step | Command |
+|------|---------|
+| **Build the project** | `npm run build` |
+
+This will create a `dist` folder containing the optimized files ready for deployment.
+
+## Deployment
+
+This website is deployed on **GitHub Pages**. To deploy it yourself, follow these steps:
+
+| Step | Command |
+|------|---------|
+| **Build the project** | `npm run build` |
+| **Deploy to GitHub Pages** | `npm run deploy` |
+
+This will push the `dist` folder to the `gh-pages` branch and update the live site.
+
+The website will be live at:https://bindushree-murthy.github.io/E-commerce-website/
+
